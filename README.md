@@ -5,3 +5,6 @@ My alacritty configuration files
 ```sh 
 bash -c "bash <(curl -sL https://raw.githubusercontent.com/erffy-dots/alacritty/main/install.sh)"
 ```
+
+### Screenshots
+![](https://raw.githubusercontent.com/erffy-dots/.generic/main/assets/alacritty.png)
